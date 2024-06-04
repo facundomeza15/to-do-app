@@ -10,3 +10,8 @@
 - SQLite 
 - HTML/CSS
 - Bootstrap
+
+
+![](images/to_do_homepage.JPG)
+
+![](images/to_do_app_tasks.JPG)
